@@ -29,7 +29,7 @@
 
 **我做了什么**：
 
-- **PDF 文本层读取扩展**（设计提案 [#811](https://github.com/T-Auto/dsh-ops/issues/811)，首个切片 [#812](https://github.com/T-Auto/dsh-ops/pull/812) 评审中，完整 7 片栈在 [fork #13](https://github.com/sefanty17/dsh-ops/pull/13)）
+- **PDF 文本层读取扩展**（设计提案 [#811](https://github.com/T-Auto/dsh-ops/issues/811)，首个切片 [#812](https://github.com/T-Auto/dsh-ops/pull/812) ，完整 7 片栈在 [fork #13](https://github.com/sefanty17/dsh-ops/pull/13)）
   - 支持 xref 流 / 对象流 / 增量 `/Prev` / hybrid `/XRefStm`
   - TIFF、PNG predictor 与间接 `/Length` `/Size` `/Count`
   - ToUnicode CMap、Type0 Identity、嵌入字体与 WinAnsi/Standard
