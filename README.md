@@ -40,6 +40,7 @@
   - ToUnicode CMap、Type0 Identity 与简单字体编码
   - 绘图操作符容忍、Form XObject 遍历、页窗口与 `failedPages`
 - **测试体系重构**：测试从 140 个合并为 56 个矩阵化用例，抽出共享 PDF fixture 构造器，测试/实现比 1.4 → 0.6
+- **完整切片栈（fork 暂存）**：[#13 集成 PR](https://github.com/sefanty17/dsh-ops/pull/13)，含 7 个功能片（xref/对象流、predictor+增量、CMap、字体、操作符/Form、页窗口）
 - **真实样本验证**：WPS、Word 2021（增量）、LibreOffice、Microsoft Print to PDF、Firefox 打印等 22 份 PDF
 
 ---
