@@ -1,4 +1,4 @@
-# Hi, I'm 蔡智豪 · sefanty17
+# Hi, I'm  · sefanty17
 
 软件工程本科生 · 后端工程 / AI Agent / 本地优先工具
 
